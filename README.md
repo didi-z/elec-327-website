@@ -1,2 +1,2 @@
-ELEC 327 Final Proj
+# ELEC 327 Final Proj
 Designed by: Didi Zhou
